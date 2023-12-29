@@ -24,4 +24,6 @@ jobs:
       run: dotnet test --no-build --verbosity normal projeto1/projeto1.csproj
     - name: Test projeto2
       run: dotnet test --no-build --verbosity normal projeto2/projeto2.csproj
+    - name: Test projeto3
+      run: dotnet test --no-build --verbosity normal projeto3/projeto3.csproj
       
