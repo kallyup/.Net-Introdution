@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/projeto3/bin/Debug/net8.0/projeto3.dll",
+            "program": "${workspaceFolder}/projeto6/bin/Debug/net8.0/projeto6.dll",
             "args": [],
             "cwd": "${workspaceFolder}/projeto3",
             "console": "internalConsole",

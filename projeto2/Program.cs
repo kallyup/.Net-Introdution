@@ -5,6 +5,7 @@ Pessoa pessoa1 = new Pessoa();
 
 pessoa1.Nome = "deb";
 pessoa1.Idade = 25;
+pessoa1.Sobrenome= "macedo";
 pessoa1.Apresentar();
 
 //Metodo datatime
